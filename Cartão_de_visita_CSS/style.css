@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.card{
+    margin: auto;    
+
+    width: 451px;
+    height: 220px;
+    background-image: url("../backgorund.png");
+    padding: 1px 20px;
+    background-size: cover;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 120px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul .insta{
+    list-style-image: url("../insta.png");
+}
+ul .twiter{
+    list-style-image: url("../Twitter.png");
+}
+ul .youtube{
+    list-style-image: url("../Youtube.png");
+}
